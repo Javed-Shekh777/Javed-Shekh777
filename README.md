@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Web Developer from Lucknow</h3>
 
 <!-- Profile Views -->
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/144610278?v=4" alt="javed-akhtar" /> </p>
+<!-- <p align="left"> <img src="https://avatars.githubusercontent.com/u/144610278?v=4" alt="javed-akhtar" /> </p> -->
 
 <!-- Social Links -->
 <p align="left">
@@ -69,8 +69,8 @@
 <!-- Popular Repositories -->
 <h3 align="left">My Popular Repositories:</h3>
 <p align="left">
-  <a href="https://github.com/your-username/repo-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-1&theme=dark" alt="repo-1" /></a>
-  <a href="https://github.com/your-username/repo-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-2&theme=dark" alt="repo-2" /></a>
+  <a href="https://github.com/your-username/repo-1"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="repo-1" /></a>
+  <a href="https://github.com/your-username/repo-2"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="repo-2" /></a>
 </p>
 
 <!-- Footer Section -->
