@@ -3,7 +3,7 @@
 <h3 align="center">A passionate [Your Field] Developer from [Your Location]</h3>
 
 <!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/144610278?v=4" alt="your-username" /> </p>
 
 <!-- Social Links -->
 <p align="left">
