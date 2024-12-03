@@ -1,70 +1,36 @@
 <!-- Header Section -->
-<h1 align="center">Hi 👋, I'm [Javed Akhtar]</h1>
-<h3 align="center">A passionate Web Developer from Lucknow</h3>
+<h1 align="center">Hi 👋, I'm Javed Akhtar</h1>
+<h3 align="center">A Passionate Web Developer from Lucknow</h3>
+---
+<h5>About</h5>
+<p>A passionate and detail-oriented Computer Science student with a Diploma in Computer Science and Engineering, proficient in a wide array of programming languages, frameworks, and tools. Skilled in developing dynamic web applications and robust backend systems using HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, Laravel, PHP, Tailwind CSS, Bootstrap, and more.Recently completed a 6-month internship, gaining hands-on experience in full-stack development and enhancing technical and problem-solving skills. Adept at learning new technologies and creating innovative solutions to complex challenges.</p>
 
-<!-- Profile Views -->
-<!-- <p align="left"> <img src="https://avatars.githubusercontent.com/u/144610278?v=4" alt="javed-akhtar" /> </p> -->
 
-<!-- Social Links -->
+
+- 🔭 I’m currently working on [Instagram Clone](https://github.com/Javed-Shekh777/insta_clone)
+
+- 🌱 I’m currently learning **Laravel,PHP**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Javed-Shekh777](https://github.com/Javed-Shekh777)
+
+- 💬 Ask me about **C, MERN,PHP,LARAVEL,React Native,Java**
+
+- 📫 How to reach me **mdjavedshekh777@gmail.com**
+
+- ⚡ Fun fact **I am serious in my own work**
+
+---
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="your-linkedin" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/your-stackoverflow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="your-stackoverflow" height="30" width="40" /></a>
-  <a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-javed-shekh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-javed-shekh" height="30" width="40" /></a>
+<a href="https://instagram.com/code-sikho-mj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="code-sikho-mj" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@tech-school8131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tech-school8131" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/javed-shekh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="javed-shekh" height="30" width="40" /></a>
 </p>
-
-<!-- Short About Section -->
-- 🔭 I’m currently working on **[Current]**
-
-- 🌱 I’m currently learning **[Laravel]**
-
-- 💬 Ask me about **[1 Year in MERN]**
-
-- 📫 How to reach me **[mdjavedshekh777@gmail.com]**
-
-- ⚡ Fun fact **[Something Fun About You]**
-
 ---
-
-<!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
-  <a href="https://www.php.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/php.png"/></a>
-  <a href="https://www.laravel.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/laravel.png"/></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-  <a href="https://www.typescript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-  <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
-  <a href="https://www.expressjs.com/" target="_blank"><img src="https://img.icons8.com/ios/50/000000/express-js.png"/></a>
-  <a href="https://www.redux.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a> 
-  <a href="https://www.bootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a> 
-  <a href="https://www.tailwind.com/" target="_blank"><img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" width="48" height="48" /></a>
-  <a href="https://www.bootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48" height="48" /></a>
-  <a href="https://www.bootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
-  <a href="https://www.bootstrap.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/canva.png"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-</p>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javed-shekh777&show_icons=true&locale=en&layout=compact" alt="javed-shekh777" /></p>
 
-<!-- GitHub Stats -->
- 
-
-<!-- Contributions -->
- 
-
----
-
-<!-- Popular Repositories -->
- 
-
-<!-- Footer Section -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="your-twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="your-linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/code-mj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javed-shekh777&show_icons=true&locale=en" alt="javed-shekh777" /></p>  
