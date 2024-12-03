@@ -1,11 +1,8 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Javed Akhtar</h1>
 <h3 align="center">A Passionate Web Developer from Lucknow</h3>
----
-<h5>About</h5>
-<p>A passionate and detail-oriented Computer Science student with a Diploma in Computer Science and Engineering, proficient in a wide array of programming languages, frameworks, and tools. Skilled in developing dynamic web applications and robust backend systems using HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, Laravel, PHP, Tailwind CSS, Bootstrap, and more.Recently completed a 6-month internship, gaining hands-on experience in full-stack development and enhancing technical and problem-solving skills. Adept at learning new technologies and creating innovative solutions to complex challenges.</p>
-
-
+<h3>About</h3>
+<h4>A passionate and detail-oriented Computer Science student with a Diploma in Computer Science and Engineering, proficient in a wide array of programming languages, frameworks, and tools. Skilled in developing dynamic web applications and robust backend systems using HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, Laravel, PHP, Tailwind CSS, Bootstrap, and more.Recently completed a 6-month internship, gaining hands-on experience in full-stack development and enhancing technical and problem-solving skills. Adept at learning new technologies and creating innovative solutions to complex challenges.</h4>
 
 - 🔭 I’m currently working on [Instagram Clone](https://github.com/Javed-Shekh777/insta_clone)
 
@@ -18,8 +15,6 @@
 - 📫 How to reach me **mdjavedshekh777@gmail.com**
 
 - ⚡ Fun fact **I am serious in my own work**
-
----
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/md-javed-shekh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-javed-shekh" height="30" width="40" /></a>
