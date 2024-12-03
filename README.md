@@ -1,8 +1,8 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Javed Akhtar</h1>
 <h3 align="center">A Passionate Web Developer from Lucknow</h3>
-<h3>About</h3>
-<h4>A passionate and detail-oriented Computer Science student with a Diploma in Computer Science and Engineering, proficient in a wide array of programming languages, frameworks, and tools. Skilled in developing dynamic web applications and robust backend systems using HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, Laravel, PHP, Tailwind CSS, Bootstrap, and more.Recently completed a 6-month internship, gaining hands-on experience in full-stack development and enhancing technical and problem-solving skills. Adept at learning new technologies and creating innovative solutions to complex challenges.</h4>
+<h2>About</h2>
+<h3A passionate and detail-oriented Computer Science student with a Diploma in Computer Science and Engineering, proficient in a wide array of programming languages, frameworks, and tools. Skilled in developing dynamic web applications and robust backend systems using HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, Laravel, PHP, Tailwind CSS, Bootstrap, and more.Recently completed a 6-month internship, gaining hands-on experience in full-stack development and enhancing technical and problem-solving skills. Adept at learning new technologies and creating innovative solutions to complex challenges.</h3>
 
 - 🔭 I’m currently working on [Instagram Clone](https://github.com/Javed-Shekh777/insta_clone)
 
