@@ -4,13 +4,13 @@
 <h2>About</h2>
 <h3>A passionate and detail-oriented Computer Science student with a Diploma in Computer Science and Engineering, proficient in a wide array of programming languages, frameworks, and tools. Skilled in developing dynamic web applications and robust backend systems using HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, Laravel, PHP, Tailwind CSS, Bootstrap, and more.Recently completed a 6-month internship, gaining hands-on experience in full-stack development and enhancing technical and problem-solving skills. Adept at learning new technologies and creating innovative solutions to complex challenges.</h3>
 
-- 🔭 I’m currently working on [Instagram Clone](https://github.com/Javed-Shekh777/insta_clone)
+- 🔭 I’m currently working on [Personel Admin Dashboard](https://github.com/Javed-Shekh777/insta_clone)
 
 - 🌱 I’m currently learning **Laravel,PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Javed-Shekh777](https://github.com/Javed-Shekh777)
 
-- 💬 Ask me about **C, MERN,PHP,LARAVEL,React Native,Java**
+- 💬 Ask me about **C, MERN,PHP,LARAVEL,Core Java**
 
 - 📫 How to reach me **mdjavedshekh777@gmail.com**
 
